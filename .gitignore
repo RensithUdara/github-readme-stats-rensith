@@ -12,4 +12,5 @@ vercel_token
 *.code-workspace
 
 .vercel
-config.bat
+.env
+.vscode/*
