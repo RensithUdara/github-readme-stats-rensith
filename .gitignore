@@ -12,3 +12,7 @@ vercel_token
 *.code-workspace
 
 .vercel
+.env
+.env.*
+.env.local
+.env.production
